@@ -8,7 +8,7 @@ branches:
 notifications:
   email:
     recipients:
-    - architect@gmail.com
+    - r.roca@alumnos.upm.es
 script:
 #Test unitario y de integracion en develop
 - mvn verify
