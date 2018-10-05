@@ -1,4 +1,4 @@
-# Forja
+# Practica de Control de Versiones (10%)
 #### Asignatura: *Ingeniería Web: Visión General*
 #### [Máster en Ingeniería Web por la U.P.M.](http://miw.etsisi.upm.es)
 
@@ -8,9 +8,12 @@
 * IntelliJ
 * GitHub
 
-### Descripción
-Este proyecto pretende ser una plantilla maven para crear un proyecto
-1.- Descomprimir en la carpeta de trabajo
-1.- Editar el pom.xml y cambiarle el nombre del proyecto
-1.- Desde IntelliJ, `Import Project`, marcar `Create Project from external model` y elegir `Maven`
+### URLs
 
+En la siguiente tabla se adjuntan las direcciones del proyecto:
+
+| App | Url |
+| ------ | ------ |
+| GitHub | https://github.com/rrocamar/Ramon.Roca.Martinez.SVC.miw.upm.es |
+| Travis | https://travis-ci.org/rrocamar/Ramon.Roca.Martinez.SVC.miw.upm.es |
+| Sonar | https://sonarcloud.io/dashboard?id=es.upm.miw%3ARamon.Roca.Martinez.SVC.miw.upm.es |
